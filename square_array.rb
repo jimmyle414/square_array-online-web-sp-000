@@ -6,9 +6,4 @@ array.each do |x|
 end
 squared_array
   
-  
-
-  
-   
-  
-end
+  end
